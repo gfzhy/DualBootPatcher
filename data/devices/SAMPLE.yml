@@ -166,7 +166,7 @@
     # Available choices:
     # - NONE
     # - RGB_565
-    force_pixel_format: NONE
+    #force_pixel_format: NONE
 
     # TWRP overscan percentage (optional).
     overscan_percent: 0
